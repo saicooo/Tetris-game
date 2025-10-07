@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tetris - Scores History</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="scores-container">
+        <h1>Scores History</h1>
+        
+        <div class="scores-list" id="scores-list">
+            <!-- Scores will be populated by JavaScript -->
+        </div>
+        
+        <div class="scores-actions">
+            <button onclick="window.location.href='game.html'">New Game</button>
+            <button onclick="window.location.href='index.html'">Change the player</button>
+            <button onclick="clearScores()">Clear Highscores</button>
+        </div>
+    </div>
+    
+    <script src="js/scores.js"></script>
+</body>
+</html>

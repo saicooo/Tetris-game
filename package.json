@@ -1,0 +1,13 @@
+{
+  "name": "tetris-game",
+  "version": "1.0.0",
+  "description": "JavaScript Tetris game for university lab",
+  "scripts": {
+    "start": "live-server --https --ssl-cert=ssl/tetris.crt --ssl-key=ssl/tetris.key",
+    "build": "echo 'No build process needed for static files'",
+    "dev": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

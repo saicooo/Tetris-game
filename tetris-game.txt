@@ -1,0 +1,11 @@
+tetris-game/
+├── index.html
+├── game.html
+├── scores.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── auth.js
+│   ├── game.js
+│   └── scores.js
+└── package.json
