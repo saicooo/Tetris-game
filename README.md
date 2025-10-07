@@ -6,7 +6,7 @@ A classic Tetris game built with JavaScript, HTML5 Canvas, and CSS. University l
 
 ## 🚀 Live Demo
 
-[**Play Tetris Now!**](https://saicooo.github.io/tetris-game)
+[**Play Tetris Now!**](https://saicooo.github.io/Tetris-game)
 
 ## 🎯 Features
 
