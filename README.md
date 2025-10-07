@@ -1,14 +1,14 @@
 # Tetris-game
 "JavaScript Tetris game - University lab project"
-# 🎮 Tetris Game
+#  Tetris Game
 
 A classic Tetris game built with JavaScript, HTML5 Canvas, and CSS. University lab project for Web Technologies course.
 
-## 🚀 Live Demo
+## Try from here
 
 [**Play Tetris Now!**](https://saicooo.github.io/Tetris-game)
 
-## 🎯 Features
+##  Features
 
 - ✅ Classic Tetris gameplay
 - ✅ User name input and persistence
@@ -19,7 +19,7 @@ A classic Tetris game built with JavaScript, HTML5 Canvas, and CSS. University l
 - ✅ Responsive design
 - ✅ Local storage for scores
 
-## 🎮 Controls
+##  Controls
 
 - **← →** : Move left/right
 - **↑** : Rotate piece
@@ -41,14 +41,14 @@ tetris-game/
 - └── README.md # This file
 
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5 Canvas
 - JavaScript (ES6+)
 - CSS3
 - Local Storage API
 
-## 📚 Lab Requirements
+##  Lab Requirements
 
 This project fulfills all requirements for Laboratory Work #1:
 - Static file serving with web server
@@ -58,7 +58,7 @@ This project fulfills all requirements for Laboratory Work #1:
 - Line clearing mechanics
 - Local high scores table
 
-## 👨‍💻 Development
+## Development
 
 To run locally:
 ```bash
