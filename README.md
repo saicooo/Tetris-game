@@ -29,16 +29,16 @@ A classic Tetris game built with JavaScript, HTML5 Canvas, and CSS. University l
 
 ## 📁 Project Structure
 tetris-game/
--├── index.html # Login page
--├── game.html # Main game
--├── scores.html # High scores
--├── css/
--│ └── style.css # Styles
--├── js/
--│ ├── auth.js # Authentication
--│ ├── game.js # Game logic
--│ └── scores.js # Scores handling
--└── README.md # This file
+- ├── index.html # Login page
+- ├── game.html # Main game
+- ├── scores.html # High scores
+- ├── css/
+- │ └── style.css # Styles
+- ├── js/
+- │ ├── auth.js # Authentication
+- │ ├── game.js # Game logic
+- │ └── scores.js # Scores handling
+- └── README.md # This file
 
 
 ## 🛠 Technologies Used
