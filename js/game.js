@@ -163,10 +163,10 @@ class Tetris {
         if (this.player.nextMatrix) {
             this.player.matrix = this.player.nextMatrix;
         } else {
-            this.player.matrix = this.createPiece(pieces.length * Math.random() | 0 + 1);
+            this.player.matrix = this.createPiece(Math.floor(Math.random() * pieces.length) + 1);
         }
         
-        this.player.nextMatrix = this.createPiece(pieces.length * Math.random() | 0 + 1);
+        this.player.nextMatrix = this.createPiece(Math.floor(Math.random() * pieces.length) + 1);
         this.player.pos.y = 0;
         this.player.pos.x = (this.board[0].length / 2 | 0) - 
                            (this.player.matrix[0].length / 2 | 0);
